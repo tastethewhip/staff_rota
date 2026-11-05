@@ -1,0 +1,21 @@
+No.,Pharmacy,Town,Staff per day,Shift hours,Min narcotic aware,Min PC competent,Mon,Tue,Wed,Thu,Fri,Sat,Sun
+1,Gilbride Ballymena,Ballymena,3,9,2,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2,Gilbride Antrim,Antrim,3,9,2,1,Yes,Yes,Yes,Yes,Yes,Yes,No
+3,Gilbride Larne,Larne,4,9,1,1,Yes,Yes,Yes,Yes,Yes,Yes,No
+4,Gilbride Carrickfergus,Carrickfergus,3,7,1,1,Yes,Yes,Yes,Yes,Yes,Yes,No
+5,Gilbride Ballymoney,Ballymoney,3,8,2,1,Yes,Yes,Yes,Yes,Yes,Yes,No
+6,Gilbride Coleraine,Coleraine,3,8,1,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+7,Gilbride Magherafelt,Magherafelt,1,7,1,1,Yes,Yes,Yes,Yes,Yes,No,No
+8,Gilbride Cookstown,Cookstown,2,7.5,2,2,Yes,Yes,Yes,Yes,Yes,Yes,No
+9,Gilbride Randalstown,Randalstown,2,8,1,1,Yes,Yes,Yes,Yes,Yes,Yes,No
+10,Gilbride Ballyclare,Ballyclare,3,9,2,1,Yes,Yes,Yes,Yes,Yes,Yes,No
+11,Gilbride Newtownabbey,Newtownabbey,3,9,1,1,Yes,Yes,Yes,Yes,Yes,Yes,No
+12,Gilbride Lisburn,Lisburn,4,9,1,2,Yes,Yes,Yes,Yes,Yes,Yes,No
+13,Gilbride Belfast,Belfast,3,7.5,1,2,Yes,Yes,Yes,Yes,Yes,Yes,No
+14,Gilbride Portrush,Portrush,1,8,1,1,Yes,Yes,Yes,Yes,Yes,No,No
+15,Gilbride Ballycastle,Ballycastle,3,7,2,2,Yes,Yes,Yes,Yes,Yes,No,No
+16,Gilbride Toome,Toome,3,9,1,2,Yes,Yes,Yes,Yes,Yes,No,No
+17,Gilbride Cullybackey,Cullybackey,3,8,2,2,Yes,Yes,Yes,Yes,Yes,No,No
+18,Gilbride Broughshane,Broughshane,3,8,1,1,Yes,Yes,Yes,Yes,Yes,No,No
+19,Gilbride Ahoghill,Ahoghill,2,7,1,1,Yes,Yes,Yes,Yes,Yes,No,No
+20,Gilbride Kells,Kells,3,8,1,1,Yes,Yes,Yes,Yes,Yes,No,No
